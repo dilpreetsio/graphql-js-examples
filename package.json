@@ -1,0 +1,18 @@
+{
+  "name": "graphql-examples-js",
+  "version": "1.0.0",
+  "description": "basic express & graphql server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "expressql": "node ./express-graphql/server.js"
+  },
+  "author": "dilpreetsio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "sqlite3": "^5.0.0"
+  }
+}
