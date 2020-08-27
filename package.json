@@ -1,5 +1,5 @@
 {
-  "name": "graphql-examples-js",
+  "name": "graphql-js-examples",
   "version": "1.0.0",
   "description": "basic express & graphql server ",
   "main": "index.js",
